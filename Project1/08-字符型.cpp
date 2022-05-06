@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int main8() {
 
 	char ch = 'a';
 	cout << ch << endl;
