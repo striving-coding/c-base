@@ -41,7 +41,7 @@ bool InsertList(SqList24& L, int i, int e) {
 }
 
 
-int main() {
+int main24() {
 	SqList24 L;  //生命一个结构体数组
 	InitList(L); //初始化一个数组
 
