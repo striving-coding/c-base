@@ -164,6 +164,12 @@
     <ClCompile Include="19-指针和数组.cpp" />
     <ClCompile Include="20-结构体定义.cpp" />
     <ClCompile Include="21-结构体案例.cpp" />
+    <ClCompile Include="22-线性表静态分配.cpp" />
+    <ClCompile Include="23-线性表动态分配.cpp" />
+    <ClCompile Include="24-线性表的添加操作.cpp" />
+    <ClCompile Include="25-线性表的删除操作.cpp" />
+    <ClCompile Include="26-线性表的按位查找.cpp" />
+    <ClCompile Include="27-线性表的按值查找.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="14-swap.h" />

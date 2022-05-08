@@ -51,7 +51,7 @@ void printTeachers(Teacher tArray[], int len)
 	}
 }
 
-int main() {
+int main21() {
 
 	srand((unsigned int)time(NULL)); //随机数种子 头文件 #include <ctime>
 
