@@ -35,6 +35,7 @@ bool insertList(SqlList25& L, int length) {
 		L.data[i] = i;
 	}
 	L.Length = length;
+	return true;
 
 }
 
@@ -62,7 +63,7 @@ void printList(SqlList25 L) {
 }
 
 
-int main() {
+int main25() {
 	SqlList25 L;
 	InitList(L);
 	insertList(L, 5);

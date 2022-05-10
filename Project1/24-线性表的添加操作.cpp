@@ -38,6 +38,7 @@ bool InsertList(SqList24& L, int i, int e) {
 
 	L.data[i] = e;
 	L.length = L.length + 1;
+	return true;
 }
 
 

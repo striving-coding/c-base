@@ -93,9 +93,6 @@
     <ClCompile Include="26-线性表的按位查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="27-线性表的按值查找.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
