@@ -67,7 +67,7 @@ int getElem(SqlList26 L, int i) {
 }
 
 
-int main() {
+int main26() {
 	SqlList26 L;
 	InitList(L);
 	InsertList(L,6);
@@ -76,4 +76,5 @@ int main() {
 	printf("locate=%d\n", locate);
 	int elem = getElem(L,4);
 	printf("elem=%d\n", elem);
+	return 0;
 }
